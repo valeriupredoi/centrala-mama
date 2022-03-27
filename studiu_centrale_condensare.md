@@ -27,6 +27,8 @@ https://www.recenziidetop.ro/centrala-pe-gaz/
 
 ### Putere:
 
+**Descriere si intervale de valori**
+
 Puterea termică nominală este foarte importantă în ceea ce privește performanța unei centrale termice. Putem spune că această putere este exprimată în kilowați, fiind expusă sub forma a două valori, valoarea minimă și cea maximă. Mai jos sunt câteva game de putere și ce pot oferi.
 
 -    12 – 15 kW – Centralele termice pe gaz din această gamă de putere pot încălzi un sistem de încălzire a locuințelor cu o dimensiune de până la 10 calorifere.
