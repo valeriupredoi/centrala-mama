@@ -1,15 +1,31 @@
-Top centrale in Romania:
-========================
+1 Topuri centrale
+=================
+
+### Top centrale in Romania:
 
 https://www.cazanecentrale.ro/top-10-centrale-termice-condensare/
 
-Alt top dar cu ghid de folos:
-=============================
+- Ariston
+- Viessman
+- Vaillant
+- Immergas
+- Motan
+- Ferolli
+
+### Alt top dar cu ghid de folos la sfarsit:
 
 https://www.recenziidetop.ro/centrala-pe-gaz/
 
-Putere:
-=======
+- Ariston
+- Viessman
+- Immergas
+- Ferolli
+
+
+2 Parametri Tehnici
+===================
+
+### Putere:
 
 Puterea termică nominală este foarte importantă în ceea ce privește performanța unei centrale termice. Putem spune că această putere este exprimată în kilowați, fiind expusă sub forma a două valori, valoarea minimă și cea maximă. Mai jos sunt câteva game de putere și ce pot oferi.
 
