@@ -1,11 +1,23 @@
 0 Lucruri de tinut cont
 =======================
 
-- Firma producatoare (statistica bazata pe topuri)
+- Tip: condensare
+- Firma producatoare (statistica bazata pe topuri): Ariston, Viessman, Vaillant
+- Tip per firma: Ariston Genus/Clas One, Viessman Vitodens 050
 - Putere: mai mica de 24 kW
+- Consum: 1-3 metri cubi/h
 - Pret: variaza ca dreq
-- Garantie: majoritatea 2-3 ani, Ariston: 4-7 ani
-- Kit de evacuare inclus
+- Clase emissii NOx (Nitrogen-Oxide): Clasa 5 sau 6 (6 - ideal)
+- Garantie: majoritatea 2-3 ani, Ariston: 3-7 ani
+- Kit de evacuare ideal inclus (costa 50-200 lei)
+
+**Foarte recomandate:**
+
+- [Ariston Alteas One Net 24 kW](https://www.dedeman.ro/ro/centrala-termica-pe-gaz-cu-condensare-ariston-alteas-one-net-24-fara-kit-evacuare/p/2022722) - 5 ani Garantie, 5100 RON fara kit evacuare
+- [aceeasi dar cu 7 ani garantie](https://www.dedeman.ro/ro/centrala-termica-pe-gaz-cu-condensare-ariston-alteas-one-net-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022722-2026473) - 5400 RON (merita 300 lei extra ptr +2 ani Garantie)
+- [Ariston Clas One 24 +2ani Garantie](https://www.dedeman.ro/brasov/centrala-termica-pe-gaz-cu-condensare-ariston-clas-one-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022728-2026473) - 5 ani Garantie (incusiv extra 2 ani), 3700 RON, fara kit evacuare
+
+
 
 1 Topuri centrale
 =================
@@ -78,7 +90,7 @@ Ecuatia este confirmata approximativ si de aci: https://www.caloreshop.ro/add/ca
   - Viessman £800-£1300
 - [Romania 2021](https://casasidesign.ro/cele-mai-bune-centrale-termice-pe-gaz):
   - Ariston Alteas One Net (debit bun, **garantie 7 ani**)
-  - Viessmann Vitodens
+  - Viessmann Vitodens 050
 - [Romania 2022 - cu dimensiuni si tech](https://www.ereview.ro/top-15-cele-mai-bune-centrale-termice-pe-gaz/):
   - Ariston Clas One 24kW
   - Valliant ecoTec
