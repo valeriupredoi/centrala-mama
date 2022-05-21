@@ -7,16 +7,15 @@
 - Putere: mai mica de 24 kW
 - Consum: 1-3 metri cubi/h
 - Pret: variaza ca dreq
-- Clase emissii NOx (Nitrogen-Oxide): Clasa 5 sau 6 (6 - ideal)
+- Clase emissii NOx (Nitrogen-Oxid): Clasa 5 sau 6 (6 - ideal)
 - Garantie: majoritatea 2-3 ani, Ariston: 3-7 ani
 - Kit de evacuare ideal inclus (costa 50-200 lei)
 
 **Foarte recomandate:**
 
-- [Ariston Alteas One Net 24 kW](https://www.dedeman.ro/ro/centrala-termica-pe-gaz-cu-condensare-ariston-alteas-one-net-24-fara-kit-evacuare/p/2022722) - 5 ani Garantie, 5100 RON fara kit evacuare
-- [aceeasi dar cu 7 ani garantie](https://www.dedeman.ro/ro/centrala-termica-pe-gaz-cu-condensare-ariston-alteas-one-net-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022722-2026473) - 5400 RON (merita 300 lei extra ptr +2 ani Garantie)
-- [Ariston Clas One 24 +2ani Garantie](https://www.dedeman.ro/brasov/centrala-termica-pe-gaz-cu-condensare-ariston-clas-one-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022728-2026473) - 5 ani Garantie (incusiv extra 2 ani), 3700 RON, fara kit evacuare
-
+- [**Ariston Clas One 24 kW +2ani Garantie**](https://www.dedeman.ro/brasov/centrala-termica-pe-gaz-cu-condensare-ariston-clas-one-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022728-2026473) - 5 ani Garantie (incusiv extra 2 ani), 3700 RON, fara kit evacuare
+- [Ariston Alteas One Net 24 kW +2 ani Garantie](https://www.dedeman.ro/ro/centrala-termica-pe-gaz-cu-condensare-ariston-alteas-one-net-24-fara-kit-evacuare-cu-garantie-extinsa-2-ani/p/2022722-2026473) - 7 ani garantie, 5400 RON (merita 300 lei extra ptr +2 ani Garantie), fara kit evacuare, WiFi
+- [Viessmann Vitodens 050-W 19 kW](https://www.dedeman.ro/brasov/centrala-termica-pe-gaz-cu-condensare-viessmann-vitodens-050-w-19-wifi-kit-evacuare/p/2027443) - 2 ani Garantie, 4100 RON, cu kit evacuare, WiFi, NOx 6
 
 
 1 Topuri centrale
@@ -27,7 +26,7 @@
 [Top 1](https://www.cazanecentrale.ro/top-10-centrale-termice-condensare/):
 
 - Ariston - (Alteas ori Genus, One - ideal Net (control de pe telefon), trebe gasita <20kW, **garantii foarte bune 5-7 ani**)
-- Viessman - (Vitodens 050): Garantie numai 2 ani
+- Viessman - (Vitodens 050): **Garantie numai 2 ani**
 - Vaillant
 - Immergas
 - Motan
