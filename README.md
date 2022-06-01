@@ -12,3 +12,5 @@
 ### Intrebari.
 
 - daca se defecteaza termostatul wifi?
+- cum se reseteaza receiverul pe centrala?
+- termostatul se poate cabla la centrala?
