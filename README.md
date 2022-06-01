@@ -9,8 +9,13 @@
 - 2 Iunie incepe montarea centralei.
 
 
-### Intrebari.
+### Intrebari termostat
 
 - daca se defecteaza termostatul wifi?
 - cum se reseteaza receiverul pe centrala?
 - termostatul se poate cabla la centrala?
+
+### Despre termostat.
+
+- se pare ca arata cu 0.5-1.0 degC mai mult.
+- baterii bune, tin 1 an.
