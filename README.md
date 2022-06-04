@@ -7,13 +7,16 @@
 - 30 May vorbit Dna Dora - firma face tot (incl. centrala, calorifere, termostat wireless).
 - 30 May oferta trimisa si primita: total RON 11,374.
 - 2 Iunie incepe montarea centralei.
-
+- 3 Iunie montarea terminata si test simplu
 
 ### Intrebari termostat
 
 - daca se defecteaza termostatul wifi?
+  R: se trece centrala pe Manual (de la Auto) si apoi se seteaza temperatura din centrala cu sagatile Sus/Jos;
+  Se da imediat tel la firma ptr reparatia/inlocuirea termostatului.
 - cum se reseteaza receiverul pe centrala?
 - termostatul se poate cabla la centrala?
+  R: nu
 
 ### Despre termostat.
 
