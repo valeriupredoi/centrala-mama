@@ -8,7 +8,10 @@
 - 30 May oferta trimisa si primita: total RON 11,374.
 - 2 Iunie incepe montarea centralei.
 - 3 Iunie montarea terminata si test simplu.
-- 6 Iunie PIF si setare termostat
+- 6 Iunie PIF si setare termostat.
+- 6 Iunie - test complet cu aducerea temperaturii ambiente pana la 27C - centrala a lucrat cam 30min cu ridicare de temperatura in tur de la 27C pana.
+  la 59C (rata cam 1C/minut) - totul bine, calorifere foarte fierbinti; usoara scurgere de sifon (cat a stat sifon activ) langa caloriferul de la bucatarie (7-8 picaturi)
+  Centrala s-a oprit automat la 27.3C.
 
 ### Termostat.
 
