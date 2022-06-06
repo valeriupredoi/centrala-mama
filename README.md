@@ -12,7 +12,8 @@
 
 ### Termostat.
 
-- setat la 22C (pornire centrala)
+- setat la 22C (oprire centrala cand temperatura ambienta atinge 22C)
+- se pare ca are o marja de dT = +0.3 grade C (adica nu se opreste centrala la 22C dar la 22.3C)
 - resetare Receiver - tii apasat buton M/A vreo 10s pana palpaie lampa rusie.
 - baterie slaba indicata de flashing "bA"
 - lipsa de gaz declanseaza Eroare 6A - cand vine gazul se tine buton Calorifer (pe centrala) apasat.
