@@ -38,3 +38,7 @@ Tip: **Computherm Q3 RF**
 
 - se pare ca arata cu 0.5-1.0 degC mai mult (nu e sigur)
 - baterii bune, tin 1 an.
+
+### Consum gaz.
+
+- la 55C tur stabil, din doua seturi de masuratori, consum = 0.7 mc/h gaz
